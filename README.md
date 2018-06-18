@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 New text
 Again
+
+## New section
+
+New text for new session

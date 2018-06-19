@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ben -- Guru -- itguru
 
 # THANKS
 

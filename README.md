@@ -14,3 +14,7 @@ Again
 ## New section
 
 New text for new session
+
+## Copyright
+
+2014 Git training

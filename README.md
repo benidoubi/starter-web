@@ -18,6 +18,7 @@ New text for new session
 ## Copyright
 
 2014 Git training
+All rights reserved
 
 Adding some text
 

@@ -20,3 +20,7 @@ New text for new session
 2014 Git training
 
 Adding some text
+
+## So more text
+
+Line for rebasing example

@@ -24,3 +24,6 @@ Adding some text
 ## So more text
 
 Line for rebasing example
+
+More changes from myfeature branch
+More changes from myfeature branch
